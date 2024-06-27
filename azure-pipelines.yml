@@ -22,5 +22,5 @@ steps:
     sourceGitRepositoryUri: '$(Build.Repository.Uri)'
     sourceGitRepositoryPersonalAccessToken: '$(GITHUB_PAT)'
     sourceGitRepositoryCloneDirectoryName: 'https://github.com/AgnBc/Arbitrum-NitroTestNode-L2Rollup.git'
-    destinationGitRepositoryUri: 'https://dev.azure.com/LibraChain/GitHub%20-%20Mirrored%20Forks/_git/Arbitrum-NitroTestNode-L2Rollup'
+    destinationGitRepositoryUri: 'https://dev.azure.com/LibraChain/GitHub%20-%20Mirrored%20Forks/_git/Arbitrum%20-%20NitroTestNode-L2Rollup'
     destinationGitRepositoryPersonalAccessToken: '$(AZURE_PAT)'
