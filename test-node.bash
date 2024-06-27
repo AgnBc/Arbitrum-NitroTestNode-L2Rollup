@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 set -e
 
 NITRO_NODE_VERSION=offchainlabs/nitro-node:v3.0.1-cf4b74e-dev
